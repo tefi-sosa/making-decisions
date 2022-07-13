@@ -17,7 +17,7 @@ if (lovesCode = true) {
 } else {
   console.log("Coding has its challenges");
 }
-//extra line
+
 // For problems 2-3 use the following lines of code:
 var amysAge = 29;
 var brittanisAge = 34;
@@ -190,4 +190,3 @@ while (z > 0) {
   }
   z--;
 }
-
